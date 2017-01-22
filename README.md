@@ -1,4 +1,4 @@
-# CS50_PSET_1
+# CS50_PSET_0
 Harvard CS50x online course: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 ##Week 0
