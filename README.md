@@ -4,7 +4,7 @@ Harvard CS50x online course: https://www.edx.org/course/introduction-computer-sc
 ##Week 0
 Learning about Scratch
 
-##Problem Set 0
+##Problem Set 0 (2016)
 Create a Scratch project with...
 - At least 2 sprites
 - At least 3 scripts
